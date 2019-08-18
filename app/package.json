@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "cordova-plugin-whitelist": "1"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-file": {},
+      "cordova-plugin-autostart": {},
+      "cordova-plugin-background-mode": {},
+      "cordova-plugin-splashscreen": {}
+    }
+  },
+  "dependencies": {
+    "cordova-plugin-autostart": "^2.3.0",
+    "cordova-plugin-background-mode": "^0.7.2",
+    "cordova-plugin-device": "^2.0.2",
+    "cordova-plugin-file": "^4.3.3",
+    "cordova-plugin-geolocation": "^2.4.3",
+    "cordova-plugin-splashscreen": "^5.0.2",
+    "cordova-plugin-whitelist": "1",
+    "file": "^0.2.2",
+    "onsenui": "^2.10.8",
+    "xcode": "^2.0.0"
+  }
+}
